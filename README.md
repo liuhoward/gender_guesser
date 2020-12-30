@@ -1,3 +1,5 @@
+pip install git+https://github.com/liuhoward/gender_guesser.git
+
 #### Merge three packages:
 
 1. https://github.com/lead-ratings/gender-guesser
